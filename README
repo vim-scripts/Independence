@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3887
+
+Independence is a plugin to automatically load project-specific .vimrc files.
+
+For the latest version, to report a problem, or contact the author please visit https://github.com/AD7six/vim-independence
